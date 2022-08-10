@@ -1,1 +1,334 @@
-TestXX
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" 
+				href="css/main.css">
+
+				<title> Webiste Title</title>
+
+</head>
+
+	<title> Kamara Daughtry | Home </title>
+	<style type="text/css">
+		body{
+			background-color: yellow;
+}
+h1{
+			color: red;
+			font-family: cursive;
+			font-weight: 500px;
+			text-align: center;
+			text-decoration: underline;
+}
+
+body{
+	border: solid;
+	margin: 5px;
+	padding: 10px;
+	padding: 20px;
+}
+p{
+	color: blue;
+	#KamaraList
+ }
+ a{ 
+ 		font-size: small;
+ 		text-decoration: name;
+  }
+	</style>
+
+	<body>
+
+
+		
+	</body>
+
+
+
+	<style type="text/css">
+		h1{ 
+			color: blue;
+			text-transform: lowercase;		 }
+	</style>
+
+<style type="text/css">
+ h1{ text-transform: uppercase; }
+
+</style>
+
+
+<nav>
+	<a href="file:///C:/Users/Boston/Documents/PerScholas%20(KD)/SoftwareEngineering/Pages/Stories2.html"></a>
+
+	<a href="">Second Page</a>
+	<a href=" file:///C:/Users/Boston/Documents/PerScholas%20(KD)/Trial22.html"></a>
+
+	<style type="text/css">
+		h1{ 
+			color: purple;
+			text-transform: uppercase;		 }
+	</style>
+
+
+</nav>
+
+
+
+	<p>
+		
+	</p>
+
+	</head>
+	<body>
+
+	<h1> Kamara Daughtry </h1>
+</head>
+
+<table width="50%" border="solid">
+	<tr>
+		<th> First Name</th>
+		<th> Last Name </th>
+		<th> Gender </th>
+</tr>
+<tr>
+	<td> Kamara</td>
+	<td> Daughtry </td>
+	<td> Female</td>
+</tr>
+</table>
+
+<div id="div2">
+	<p> I'm looking for a <a href="https://pbs.twimg.com/media/Dg0TtXWV4AAhqgo.jpg"></a></p>
+
+	<p id="KamaraList"> Here are some of Jerry's favoriet food</p>
+
+	<ol>
+		<li class="favList"></li>
+
+	</ol>	
+
+</div>
+
+
+
+
+<style type="text/css">
+		body {
+			 background-color: yellow;
+			 text-underline-position: ;
+
+		}
+
+		h1{
+
+		color: blue;
+	}
+
+	#KamaraList{
+		color: green;
+	}
+
+	.favList
+		text-decoration: underline
+
+	}
+	</style>
+
+	<head>
+		Heading 1
+	</head>
+
+	<head>
+		Heading 2
+	</head>
+
+	<head>
+		Heading 3
+	</head>
+
+<body>
+	<form>
+		<h3> DCOW Talent Directory</h3>
+		First Name: <br>
+		<input type="text" name=" firstname"> <br>
+		Last Name: <br>
+		<input type="text" name="last name"> <br>
+		Class:		 <br>
+		Position <br>
+		<input type="text" name="class">
+		Gender		 <br>
+		<input type="radio" name="gender" value="Female">
+					Female <br>
+		<input type="radio" name="gender" value="Male">
+					Male <br>
+		<input type="button" name="submit" value="submit">
+
+<style type="text/css">
+	input [type=button] :hover{
+		border: solid;
+		background-color: rgb(0, 230, 0);
+	}
+
+	input [type=text] :focus {
+		background-color: rgb(0, 300, 0);
+		color: black;
+		width: 100%;
+		transition: 2s;
+	}
+
+</style>
+
+	</form>
+
+
+</body>
+
+
+
+<style type="text/css">
+
+	form{
+		padding: 15px;
+		background-color: white;
+		font-style: italic;
+		border-style: solid;
+		font-weight: 900px;
+	}
+
+	input [type=button] {
+		color: black;
+		background-color: rgb(0, 230, 0);
+		padding: 5px;
+	}
+</style>
+
+	
+
+</form>
+
+
+<style type="text/css">
+	#box1{
+		background-color: blue;
+	}
+	#box1:hover{
+			background-color: orange;
+	}
+</style>
+
+<style type="text/css">
+		
+
+	</style>
+
+<div id="div1">
+	<h1> Hi, I'm Kamara </h1>
+	<h3>Welcome to my site</h3>
+	<nav> 
+		<a href="Pages/Stories2.html"> stories </a>
+		<a href=""> contact </a>
+	</nav>
+	<img src="http://latinoreporter.org/wp-content/uploads/2020/08/gente_daughtry_003-768x1024.jpg">
+</div>
+
+<body>
+
+ 
+<nav> 
+	<a href="Pages/Stories2.html"> stories </a>
+	<a href=""> contact </a>
+
+<style type="text/css">
+	<color pu
+</style>
+
+	</body>
+
+
+	<p>Hello, I'm Kamara Daughtry, a Software Engineer here to help you. I'm a resume writer and social media manager</p>
+
+	<img src="http://latinoreporter.org/wp-content/uploads/2020/08/gente_daughtry_001-919x1024.jpg">
+
+</nav>
+
+
+	<a href="">
+	Latino Reporter - http://latinoreporter.org/2020/gente-de-nahj-kamara-daughtry-brings-cheer-to-virtual-meetings-with-splashes-of-color/</v>
+
+<div id="div2">
+
+	<p id="jerrylist"> Here is a list of 3 of my favorite things </p>
+
+	<ol> 
+
+<li class="favList"> Orginization </li>
+<li class="favList"> Food </li>
+<li> Money </li>
+
+<style type="text/css">
+	{text-transform: capitalize;}
+</style>
+
+</h1>
+
+</p>
+
+<iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/COtlbyUsFWI?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"></iframe>
+
+<div id="div4">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdC6p5RJagI?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<div id="div3">
+
+<video> <iframe width="420" height="320" control=  src="<iframe width="560" height="315" src="https://www.youtube.com/embed/r4YIdn2eTm4?start=190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"></iframe>
+ </video>
+</div>
+
+</body>
+
+<style type="text/css">
+	#div1{ 
+		background-color: red;
+	 }
+	 #div2{ 
+	 	background-color: yellow;
+	  }
+	  #div3{ 
+	  	background-color: blue;
+	   }
+	   #div4{
+	   	background-color: green;
+	   }
+#div1, #div2 #div3 #div4 {
+		border: dashed;
+}
+
+</style>
+
+
+<nav>
+<ul>
+	<li> <a href="#"> </a> Menu 1 </li>
+	<li> <a href="#"> </a> Menu 2 </li>
+	<li> <a href=""> </a> Menu 3 </li>
+</ul>
+</nav>
+
+<img src="https://www.cablefax.com/wp-content/uploads/2019/07/roz-abrams-interviewed-by-ebf-fellow-kamara-daughtry.jpg">
+
+<p>
+	August 2022 is a New Season
+	<p id="KamaraList"> Here are some of Kamara's favorite things
+
+		<ol>
+			<li class="favList"> Rule 1 </li>
+			<li class="favList">Rule 2 </li>
+			<li>Rule 3 </li>
+		</ol>
+		
+	</p>
+</p>
+
+
