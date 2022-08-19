@@ -1,0 +1,80 @@
+body{
+    background-color: hotpink;
+}
+
+
+.navContainer{
+    display:flex;
+    padding:15px;
+    justify-content: space-between;
+    
+}
+.logo{
+    width:275px;
+    height:125px;
+}
+
+.navTab{
+    margin-top:10px;
+    font-family: ;
+    
+}
+.navTab:hover{
+    margin-top:10px;
+    color:crimson;
+}
+.navBtn{
+    height:40px;
+}
+.picContainer{
+    border:solid red;
+    border-width:.2px;
+    height:400px;
+    background-image: url(https://cdn.choosechicago.com/uploads/2020/06/CHOOSE_CHICAGO_08_HydePark_Virtue-900x516.jpg);
+    background-size:cover;
+
+}
+.mainTitle{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:20%;
+    text-align:left
+}
+.learnBtn{
+    font-size:30px;
+    background-color: white;
+    color: black;
+    margin-left:2px%;
+}
+.magi{
+    text-align: center;
+}
+.icon{
+    width: 45%;
+    margin-left: 27.5%;
+}
+
+.
+.foodContainer{
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+.foodPic{
+    width:80%;
+    border-radius:22px;
+    border:solid white; 
+    border-width:.2px;
+
+}
+
+.foodCard{ 
+    width: 33%;
+    border: solid white;
+}
+
+.SignatureItems{
+ text-align: center; 
+
+}

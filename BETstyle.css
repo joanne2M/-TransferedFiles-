@@ -1,0 +1,50 @@
+body{ 
+    height: 400;
+    background-color: black;
+
+
+}
+
+
+h2{
+color: white;
+text-align: center;
+} 
+
+title{
+    font-size: medium;
+    color:black
+}
+
+.navContainer{ 
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.NAV{ 
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom: 93%;
+        /* background-color: red */
+    width: 100vw;
+    height: auto; 
+    /* margin-top Irem; */
+}
+
+.Photo1, .Photo2 {
+    width: 350px;
+    height: 220px;
+}
+
+.BETPhotos{
+    display: flex;
+}
+
+.themeTab{
+    width: 750px;
+    height: 550px;
+    justify-content: left;
+
+}

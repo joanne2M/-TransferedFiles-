@@ -1,0 +1,50 @@
+.body{
+    background-color: grey;
+}
+.title{
+    text-align: center;
+    color: grey;
+    padding:10px;
+}
+.logo{
+    height: 100px;
+    width:30%
+}
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+}
+.picContainer{
+    background-image: url(https://github.com/itzamnahuerta/tokyo_bikes/blob/master/assets/tokyobike-Oksana.jpg?raw=true);
+    background-size: auto;
+    border: rgba(255, 255, 255, .75);
+    height: 1200px;
+    justify-content: flex-end;
+    flex-direction: column;
+    display: flex;
+}
+.box{
+    color: black;
+    margin-bottom: 70px;
+    padding:30px;
+    background-color: rgba(255, 255, 255, .75)
+}
+.shopBtn{
+    border: solid black;
+    background-color: white;
+    margin-right:92%;
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+.bikeContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+}
+.bikePic{
+    width:40%;
+    text-align: center;
+}
